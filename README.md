@@ -2,8 +2,7 @@
 ## bruh moment dp2-3
 
 ## 1. *Work with github*
-- using:
-
+- Using:  
 **// Darba sakums ar repozitoriju 🤓**  
 ```
 git init //izveido/sagatavo repozitoriju  
@@ -26,7 +25,7 @@ git diff //parada izmainas kops pedeja commit
 ```
 
 ## 2. *work with django*
-- Ideas for project:
+- Ideas for project:  
 ```
 undefined
 ```
