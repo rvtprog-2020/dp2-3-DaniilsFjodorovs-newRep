@@ -3,8 +3,10 @@
 
 ## 1. *Work with github*
 - Using:
-**// Darba sakums ar repozitoriju 🤓**  
+ 
+ **// Darba sakums ar repozitoriju 🤓**
 ```
+
 git init //izveido/sagatavo repozitoriju  
 git add . //sagatavo visu prieks commit, stage'o failus un izmainas  
 gid commit -m 'something' //saglaba izmainas izveido versiju  
@@ -26,6 +28,7 @@ git diff //parada izmainas kops pedeja commit
 
 ## 2. *work with django*
 - Ideas for project:  
+
 ```
 undefined
 ```
