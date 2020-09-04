@@ -2,7 +2,7 @@
 ## bruh moment dp2-3
 ### ok
 
-***work with github***
+1.*work with github*
 
 **// Darba sakums ar repozitoriju 🤓**  
 ```
@@ -24,7 +24,8 @@ git clone https://..../repo.git //nokope repozitoriju lokali
 git status //parbauda repozitorija stavokli  
 git diff //parada izmainas kops pedeja commit  
 ```
-***django ideas***
+
+2.*work with github*
 ```
 undefined
 ```
