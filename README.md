@@ -1,6 +1,6 @@
-#my first repo  
-##bruh moment dp2-3  
-###ok  
+# my first repo
+## bruh moment dp2-3
+### ok
 ```
 //Darba sakums ar repozitoriju  
 git init //izveido/sagatavo repozitoriju  
