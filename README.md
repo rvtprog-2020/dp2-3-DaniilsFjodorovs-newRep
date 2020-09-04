@@ -5,7 +5,7 @@
 //Darba sakums ar repozitoriju  
 git init //izveido/sagatavo repozitoriju  
 git add . //sagatavo visu prieks commit, stage'o failus un izmainas  
-gid commit -m 'name of commit' //saglaba izmainas izveido versiju  
+gid commit -m 'something' //saglaba izmainas izveido versiju  
 git remote add origin https://..../repo.git //pievienot remote repozitoriju  
 git push --set-upstream origin master // augsh pieladet izmainas  
 
