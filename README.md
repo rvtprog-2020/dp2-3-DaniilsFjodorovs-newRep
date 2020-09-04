@@ -6,7 +6,6 @@
  
  **// Darba sakums ar repozitoriju 🤓**
 ```
-
 git init //izveido/sagatavo repozitoriju  
 git add . //sagatavo visu prieks commit, stage'o failus un izmainas  
 gid commit -m 'something' //saglaba izmainas izveido versiju  
