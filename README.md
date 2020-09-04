@@ -1,7 +1,7 @@
 # django project
 ## bruh moment dp2-3
 
-### 1. *Work with github*
+## 1. *Work with github*
 - Using:
  
  **// Darba sakums ar repozitoriju 🤓**
@@ -21,11 +21,13 @@ git push
 
 git clone https://..../repo.git //nokope repozitoriju lokali  
 
+git pull // savac pedejo versiju no remote 
+
 git status //parbauda repozitorija stavokli  
 git diff //parada izmainas kops pedeja commit  
 ```
 
-### 2. *work with django*
+## 2. *work with django*
 - Ideas for project:  
 
 ```
