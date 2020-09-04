@@ -1,0 +1,1 @@
+print('random string 2')
