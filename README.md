@@ -1,7 +1,7 @@
 #my first repo
 ##bruh moment dp2-3
 ###ok
-
+```
 //Darba sakums ar repozitoriju  
 git init //izveido/sagatavo repozitoriju  
 git add . //sagatavo visu prieks commit, stage'o failus un izmainas  
@@ -17,3 +17,4 @@ git push
 
 git status //parbauda repozitorija stavokli  
 git diff //parada izmainas kops pedeja commit  
+```
