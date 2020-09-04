@@ -2,7 +2,8 @@
 ## bruh moment dp2-3
 
 ## 1. *Work with github*
-- using:  
+- using:
+
 **// Darba sakums ar repozitoriju 🤓**  
 ```
 git init //izveido/sagatavo repozitoriju  
